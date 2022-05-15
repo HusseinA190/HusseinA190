@@ -1,7 +1,7 @@
 <!-- <img alt="Coding" width="400" src="https://pin.it/6wNfEVK"/> -->
 <h1 align="center">Hi 👋, I'm Hussein Ashraf</h1>
 <h3 align="center">A passionate data analysis</h3>
-<img align="right" alt="Coding" width="500" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
+<img align="center" alt="Coding" width="1000" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husseina190&label=Profile%20views&color=0e75b6&style=flat" alt="husseina190" /> </p>
 
