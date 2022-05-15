@@ -1,7 +1,7 @@
 <!-- <img alt="Coding" width="400" src="https://pin.it/6wNfEVK"/> -->
 <h1 align="center">Hi 👋, I'm Hussein Ashraf</h1>
 <h3 align="center">A passionate data analysis</h3>
-<img align="center" alt="Coding" width="1000" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
+<img align="center" alt="Coding" width="800" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husseina190&label=Profile%20views&color=0e75b6&style=flat" alt="husseina190" /> </p>
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hussein ashraf mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein ashraf mohamed" height="30" width="40" /></a>
-<a href="https://fb.com/hussein ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hussein ashraf" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/learn24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learn24" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hussein-ashraf-mohamed-6222691b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhVvkHrqCQWCoLo4pwSWZIQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein ashraf mohamed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Hu.Emlassry2562001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hussein ashraf" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC-LaHmQKzbR8M5dwwy3ZuoQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learn24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
